@@ -1,6 +1,6 @@
 ## Hi I'm Joshua 👋
 
-<img width="368" alt="A picture of me" src="???">
+<img width="368" alt="Me and my wife in Boston" src="Me in Boston.jpg">
 
 #### Quick links
 - [personal site](https://joshuacharleshyatt.github.io/personal/) using Quarto.
