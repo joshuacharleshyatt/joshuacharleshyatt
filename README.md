@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi I'm Joshua 👋
 
-<!--
-**joshuacharleshyatt/joshuacharleshyatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="368" alt="A picture of me" src="???">
 
-Here are some ideas to get you started:
+#### Quick links
+- [personal site](https://joshuacharleshyatt.github.io/personal/) using Quarto.
+- Email me at joshuacharleshyatt@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Fast facts
+- I work full-time as a data scientist :chart_with_upwards_trend:
+- My background is in Mathematics :abacus:
+- I travel all over the world :world_map:
+
+
+#### Hobbies
+- Playing TTRPGs :game_die:
+- Playing Piano and the Tin Whistle :musical_keyboard:
+- Pickleball :tennis:
+- Hiking :hiking_boot:
+- Video Games :video_game:
